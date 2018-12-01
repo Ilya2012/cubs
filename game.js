@@ -65,8 +65,8 @@ var tyle = new Image ();
 tyle.src = 'tyle.png';
 
 
-var Untitled = new Media ('/asset/www/Untitled.mp3');
-var Untitled1 = new Media ('/asset/www/Untitled.ogg');
+var Untitled = new Media ('/android_asset/www/Untitled.mp3');
+var Untitled1 = new Media ('/android_asset/www/Untitled.ogg');
 
 // ctx.scale(2,2);
 PPi = window.devicePixelRatio;
